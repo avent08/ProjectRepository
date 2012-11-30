@@ -10,6 +10,7 @@ public class MyActivity extends Activity
 {
     private GLSurfaceView mGLSurfaceView;
 
+	//comment
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
