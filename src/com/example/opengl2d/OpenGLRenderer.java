@@ -8,7 +8,7 @@ import javax.microedition.khronos.opengles.GL10;
 
 public class OpenGLRenderer implements Renderer{
 
-
+	//comment
     public void onSurfaceCreated(GL10 gl10, EGLConfig eglConfig) {
 
         gl10.glHint(GL10.GL_PERSPECTIVE_CORRECTION_HINT, GL10.GL_FASTEST);
