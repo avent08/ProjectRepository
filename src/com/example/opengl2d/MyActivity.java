@@ -10,7 +10,7 @@ public class MyActivity extends Activity
 {
     private GLSurfaceView mGLSurfaceView;
 
-    /** Called when the activity is first created. */
+    /** wawawawawaw */
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
